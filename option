@@ -1,0 +1,9 @@
+ma1n: #00a8c9, #e3e787, #0089a4
+face: #f868d4, #ffffff
+
+op2
+main: #f868d4, #ffffff
+face: #00a8c9, #d7d7d7, #e3e787,#0089a4
+
+import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Condensed:wght@300;400;700&display=swap");
+import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&family=Roboto+Condensed:wght@900&display=swap');
